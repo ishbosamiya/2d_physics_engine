@@ -1,7 +1,9 @@
 #ifndef MESH_H
 #define MESH_H
 
+#define GLM_ENABLE_EXPERIMENTAL
 #include <glm/glm.hpp>
+#include <glm/gtx/string_cast.hpp>
 #include <GL/glew.h>
 #include <iostream>
 #include <glm/ext.hpp>

@@ -1,0 +1,15 @@
+*~
+*#*#*
+physics_engine
+GPATH
+GRTAGS
+GTAGS
+.references/
+temp/
+*.obj
+*.bak
+.gdb_history
+peda-session*.*
+.testing/
+bin/
+Basic Display.depend
